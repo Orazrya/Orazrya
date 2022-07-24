@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orazrya
+- 👋 Hi, I’m @Orazria
 - 👀 I’m interested in full-stack position.
 - 🌱 I’m currently learning full-stack development .
 - 💞️ I’m looking to collaborate on ...
